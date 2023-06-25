@@ -33,8 +33,7 @@ class Main extends Sprite
 
 	public static function main():Void
 	{
-
-		// quick checks 
+		// quick checks
 
 		Lib.current.addChild(new Main());
 	}
@@ -44,23 +43,15 @@ class Main extends Sprite
 		super();
 
 		if (stage != null)
-		{
 			init();
-		}
 		else
-		{
 			addEventListener(Event.ADDED_TO_STAGE, init);
-		}
 	}
-
-	// public static var webmHandler:WebmHandler;
 
 	private function init(?E:Event):Void
 	{
 		if (hasEventListener(Event.ADDED_TO_STAGE))
-		{
 			removeEventListener(Event.ADDED_TO_STAGE, init);
-		}
 
 		setupGame();
 	}
@@ -84,9 +75,10 @@ class Main extends Sprite
 		gameHeight = 720;
 		zoom = 1;
 		#end
-		game = new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen);
+
+		addChild(new FlxGame(gameWidth, gameHeight, initialState, #if (flixel < "5.0.0") zoom, #end framerate, framerate, skipSplash, startFullscreen));
 		addChild(game);
-		
+
 		fpsCounter = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsCounter);
 		toggleFPS(FlxG.save.data.fps);
@@ -96,7 +88,8 @@ class Main extends Sprite
 
 	var fpsCounter:FPS;
 
-	public function toggleFPS(fpsEnabled:Bool):Void {
+	public function toggleFPS(fpsEnabled:Bool):Void
+	{
 		fpsCounter.visible = fpsEnabled;
 	}
 

@@ -13,7 +13,6 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.net.curl.CURLCode;
-
 #if windows
 import Discord.DiscordClient;
 #end
@@ -291,7 +290,7 @@ class StoryMenuState extends MusicBeatState
 			}
 		}
 
-		if (controls.BACK  #if android || FlxG.android.justReleased.BACK #end && !movedBack && !selectedWeek)
+		if (controls.BACK #if android || FlxG.android.justReleased.BACK #end && !movedBack && !selectedWeek)
 		{
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			movedBack = true;
@@ -322,15 +321,10 @@ class StoryMenuState extends MusicBeatState
 			PlayState.isStoryMode = true;
 			selectedWeek = true;
 
-
 			PlayState.storyDifficulty = curDifficulty;
 
 			// adjusting the song name to be compatible
 			var songFormat = StringTools.replace(PlayState.storyPlaylist[0], " ", "-");
-			switch (songFormat) {
-				case 'Dad-Battle': songFormat = 'Dadbattle';
-				case 'Philly-Nice': songFormat = 'Philly';
-			}
 
 			var poop:String = Highscore.formatSong(songFormat, curDifficulty);
 			PlayState.sicks = 0;
