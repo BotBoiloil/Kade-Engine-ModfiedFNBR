@@ -36,6 +36,25 @@ class Note extends FlxSprite
 
 	public var rating:String = "shit";
 
+	public var originalHeightForCalcs:Float = 6;
+	public var multSpeed(default, set):Float = 1;
+
+	private function set_multSpeed(value:Float):Float
+	{
+		resizeByRatio(value / multSpeed);
+		multSpeed = value;
+		return value;
+	}
+
+	public function resizeByRatio(ratio:Float) // haha funny twitter shit
+	{
+		if (isSustainNote && !animation.curAnim.name.endsWith('end'))
+		{
+			scale.y *= ratio;
+			updateHitbox();
+		}
+	}
+
 	public function new(strumTime:Float, noteData:Int, ?prevNote:Note, ?sustainNote:Bool = false, ?noteType:String = "")
 	{
 		super();
@@ -84,6 +103,8 @@ class Note extends FlxSprite
 				if (isSustainNote)
 				{
 					loadGraphic(Paths.image('weeb/pixelUI/arrowEnds', 'week6'), true, 7, 6);
+
+					originalHeightForCalcs = height;
 
 					animation.add('purpleholdend', [4]);
 					animation.add('greenholdend', [6]);
