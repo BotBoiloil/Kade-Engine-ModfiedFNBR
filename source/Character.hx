@@ -131,6 +131,25 @@ class Character extends FlxSprite
 				animation.addByPrefix('singRIGHT', 'Dad Sing Note RIGHT', 24);
 				animation.addByPrefix('singDOWN', 'Dad Sing Note DOWN', 24);
 				animation.addByPrefix('singLEFT', 'Dad Sing Note LEFT', 24);
+				animation.addByPrefix('laugh', 'laugh', 24);
+
+				addOffset('idle');
+				addOffset("singUP", -1, 14);
+				addOffset("singRIGHT", -11, 0);
+				addOffset("singLEFT", 9, 1);
+				addOffset("singDOWN", 6, -16);
+				addOffset("laugh", 2, 22);
+
+				playAnim('idle');
+			case 'boil':
+				// BOIL ANIMATION LOADING CODE
+				tex = Paths.getSparrowAtlas('characters/boil.png', 'shared');
+				frames = tex;
+				animation.addByPrefix('idle', 'Boil idle dance', 24);
+				animation.addByPrefix('up', 'Boil Sing Note UP', 24);
+				animation.addByPrefix('right', 'Boil Sing Note RIGHT', 24);
+				animation.addByPrefix('down', 'Boil Sing Note DOWN', 24);
+				animation.addByPrefix('left', 'Boil Sing Note LEFT', 24);
 
 				addOffset('idle');
 				addOffset("singUP", -6, 50);
