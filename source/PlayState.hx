@@ -1535,9 +1535,8 @@ class PlayState extends MusicBeatState
 
 	private function generateSong(dataPath:String):Void
 	{
-		// FlxG.log.add(ChartParser.parse());
-
 		var songData = SONG;
+
 		Conductor.changeBPM(songData.bpm);
 
 		curSong = songData.song;
@@ -1546,8 +1545,6 @@ class PlayState extends MusicBeatState
 			vocals = new FlxSound().loadEmbedded(Paths.voices(PlayState.SONG.song));
 		else
 			vocals = new FlxSound();
-
-		trace('loaded vocals');
 
 		FlxG.sound.list.add(vocals);
 
@@ -1638,23 +1635,16 @@ class PlayState extends MusicBeatState
 					sustainNote.mustPress = gottaHitNote;
 
 					if (sustainNote.mustPress)
-					{
 						sustainNote.x += FlxG.width / 2; // general offset
-					}
 				}
 
 				swagNote.mustPress = gottaHitNote;
 
 				if (swagNote.mustPress)
-				{
 					swagNote.x += FlxG.width / 2; // general offset
-				}
 			}
 			daBeats += 1;
 		}
-
-		// trace(unspawnNotes.length);
-		// playerCounter += 1;
 
 		unspawnNotes.sort(sortByShit);
 
@@ -1662,18 +1652,14 @@ class PlayState extends MusicBeatState
 	}
 
 	function sortByShit(Obj1:Note, Obj2:Note):Int
-	{
 		return FlxSort.byValues(FlxSort.ASCENDING, Obj1.strumTime, Obj2.strumTime);
-	}
 
 	private function generateStaticArrows(player:Int):Void
 	{
 		for (i in 0...4)
 		{
-			// FlxG.log.add(i);
 			var babyArrow:FlxSprite = new FlxSprite(0, strumLine.y);
 
-			// defaults if no noteStyle was found in chart
 			var noteTypeCheck:String = 'normal';
 
 			if (FlxG.save.data.middlescroll && player == 0)
@@ -1688,9 +1674,7 @@ class PlayState extends MusicBeatState
 				}
 			}
 			else
-			{
 				noteTypeCheck = SONG.noteStyle;
-			}
 
 			switch (noteTypeCheck)
 			{
@@ -1835,9 +1819,7 @@ class PlayState extends MusicBeatState
 	}
 
 	function tweenCamIn():Void
-	{
 		FlxTween.tween(FlxG.camera, {zoom: 1.3}, (Conductor.stepCrochet * 4 / 1000), {ease: FlxEase.elasticInOut});
-	}
 
 	override function openSubState(SubState:FlxSubState)
 	{
@@ -1875,9 +1857,7 @@ class PlayState extends MusicBeatState
 		if (paused)
 		{
 			if (FlxG.sound.music != null && !startingSong)
-			{
 				resyncVocals();
-			}
 
 			if (!startTimer.finished)
 				startTimer.active = true;
@@ -1903,9 +1883,7 @@ class PlayState extends MusicBeatState
 					- Conductor.songPosition);
 			}
 			else
-			{
 				DiscordClient.changePresence(detailsText, SONG.song + " (" + storyDifficultyText + ") " + Ratings.GenerateLetterRank(accuracy), iconRPC);
-			}
 			#end
 		}
 
@@ -2301,8 +2279,6 @@ class PlayState extends MusicBeatState
 					+ " | Misses: "
 					+ misses, iconRPC);
 				#end
-
-				// FlxG.switchState(new GameOverState(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y));
 			}
 		}
 
@@ -2395,8 +2371,6 @@ class PlayState extends MusicBeatState
 									2));
 						if (daNote.isSustainNote)
 						{
-							daNote.y -= daNote.height / 2;
-
 							if (!PlayStateChangeables.botPlay)
 							{
 								if ((!daNote.mustPress || daNote.wasGoodHit || daNote.prevNote.wasGoodHit && !daNote.canBeHit)
