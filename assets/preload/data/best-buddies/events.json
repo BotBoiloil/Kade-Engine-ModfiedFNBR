@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "white",
+		"player1": "bf",
+		"player2": "boilyo",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "dad",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Best Buddies"
+	}
+}

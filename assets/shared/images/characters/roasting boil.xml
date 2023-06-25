@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="roasting boil.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="100" y="100" width="205" height="269" frameX="0" frameY="0" frameWidth="207" frameHeight="269"/>
+	<SubTexture name="down0001" x="405" y="100" width="205" height="267" frameX="-2" frameY="-2" frameWidth="207" frameHeight="269"/>
+	<SubTexture name="idle0000" x="710" y="100" width="205" height="269" frameX="0" frameY="0" frameWidth="209" frameHeight="270"/>
+	<SubTexture name="idle0001" x="1015" y="100" width="206" height="267" frameX="-1" frameY="-3" frameWidth="209" frameHeight="270"/>
+	<SubTexture name="idle0002" x="1321" y="100" width="206" height="262" frameX="-3" frameY="-4" frameWidth="209" frameHeight="270"/>
+	<SubTexture name="idle0003" x="1627" y="100" width="206" height="264" frameX="-3" frameY="-2" frameWidth="209" frameHeight="270"/>
+	<SubTexture name="laugh0000" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0001" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="laugh0002" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0003" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="laugh0004" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0005" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="laugh0006" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0007" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="laugh0008" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0009" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="laugh0010" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0011" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="laugh0012" x="100" y="469" width="205" height="269" frameX="0" frameY="-1" frameWidth="205" frameHeight="271"/>
+	<SubTexture name="laugh0013" x="405" y="469" width="205" height="271"/>
+	<SubTexture name="left0000" x="710" y="469" width="204" height="268" frameX="-2" frameY="0" frameWidth="206" frameHeight="268"/>
+	<SubTexture name="left0001" x="1014" y="469" width="204" height="268" frameX="0" frameY="0" frameWidth="206" frameHeight="268"/>
+	<SubTexture name="right0000" x="1318" y="469" width="205" height="269" frameX="-2" frameY="0" frameWidth="207" frameHeight="269"/>
+	<SubTexture name="right0001" x="1623" y="469" width="206" height="269" frameX="0" frameY="0" frameWidth="207" frameHeight="269"/>
+	<SubTexture name="up0000" x="100" y="840" width="204" height="271" frameX="0" frameY="-1" frameWidth="204" frameHeight="272"/>
+	<SubTexture name="up0001" x="404" y="840" width="204" height="272"/>
+</TextureAtlas>

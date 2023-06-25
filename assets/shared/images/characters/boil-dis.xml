@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boil-dis.png"><SubTexture name="boil-dis idle0000" x="648" y="0" width="478" height="467" frameX="-23" frameY="-8" frameWidth="516" frameHeight="483" />
+<SubTexture name="boil-dis up0000" x="198" y="0" width="450" height="480" frameX="-4" frameY="-21" frameWidth="487" frameHeight="513" />
+<SubTexture name="boil-dis down0000" x="228" y="494" width="497" height="291" frameX="-47" frameY="-127" frameWidth="572" frameHeight="436" />
+<SubTexture name="boil-dis left0000" x="0" y="494" width="228" height="423" frameX="-35" frameY="-71" frameWidth="494" frameHeight="505" />
+<SubTexture name="boil-dis right0000" x="0" y="0" width="198" height="494" frameX="-201" frameY="-49" frameWidth="442" frameHeight="564" />
+</TextureAtlas>

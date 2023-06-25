@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="manny.png"><SubTexture name="manny idle0000" x="0" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny down0000" x="2048" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny down0001" x="4096" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny down0002" x="6144" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny down0003" x="0" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny down0004" x="2048" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny left0000" x="4096" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny left0001" x="6144" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny left0002" x="0" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny left0003" x="2048" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny right0000" x="4096" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny right0001" x="6144" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny right0002" x="0" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny right0003" x="2048" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny up0000" x="4096" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny up0001" x="6144" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny up0002" x="0" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny up0003" x="2048" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="manny up0004" x="4096" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+</TextureAtlas>

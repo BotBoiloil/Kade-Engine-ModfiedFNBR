@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="366" height="261" frameX="0" frameY="0" frameWidth="366" frameHeight="264"/>
+	<SubTexture name="down0001" x="366" y="0" width="366" height="88" frameX="0" frameY="-176" frameWidth="366" frameHeight="264"/>
+	<SubTexture name="idle0000" x="732" y="0" width="366" height="413"/>
+	<SubTexture name="idle0001" x="1098" y="0" width="366" height="257" frameX="0" frameY="-148" frameWidth="366" frameHeight="413"/>
+	<SubTexture name="idle0002" x="1464" y="0" width="366" height="345" frameX="0" frameY="-61" frameWidth="366" frameHeight="413"/>
+	<SubTexture name="left0000" x="1830" y="0" width="86" height="413" frameX="-11" frameY="0" frameWidth="109" frameHeight="413"/>
+	<SubTexture name="left0001" x="1916" y="0" width="109" height="108" frameX="0" frameY="-153" frameWidth="109" frameHeight="413"/>
+	<SubTexture name="right0000" x="0" y="413" width="347" height="380" frameX="-53" frameY="-51" frameWidth="453" frameHeight="482"/>
+	<SubTexture name="right0001" x="347" y="413" width="453" height="482"/>
+	<SubTexture name="up0000" x="800" y="413" width="274" height="549" frameX="0" frameY="-120" frameWidth="274" frameHeight="789"/>
+	<SubTexture name="up0001" x="1074" y="413" width="198" height="789" frameX="-38" frameY="0" frameWidth="274" frameHeight="789"/>
+</TextureAtlas>

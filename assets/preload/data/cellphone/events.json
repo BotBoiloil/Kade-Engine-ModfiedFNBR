@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "white",
+		"player1": "bf",
+		"player2": "boil-irl",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"FlipUI",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Screen Shake",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 252,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "FuckYou"
+	}
+}

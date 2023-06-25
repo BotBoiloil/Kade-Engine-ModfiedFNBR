@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "white",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				21250,
+				[
+					[
+						"Camera Follow Pos",
+						"1500",
+						"1500"
+					]
+				]
+			],
+			[
+				22666.6666666667,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"matpat-pixel"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-matpat"
+					]
+				]
+			],
+			[
+				45333.3333333333,
+				[
+					[
+						"Camera Follow Pos",
+						"1500",
+						"1500"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"dad"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Just-A-Theory"
+	}
+}

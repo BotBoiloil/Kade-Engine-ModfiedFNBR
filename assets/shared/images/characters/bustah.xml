@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bustah.png"><SubTexture name="bustah idle0000" x="0" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah idle0001" x="2724" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah idle0002" x="5448" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah idle0003" x="0" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah idle0004" x="2724" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah right0000" x="5448" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah right0001" x="0" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah left0000" x="2724" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah left0001" x="5448" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah up0000" x="0" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah up0001" x="2724" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah down0000" x="5448" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="bustah down0001" x="0" y="10896" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+</TextureAtlas>

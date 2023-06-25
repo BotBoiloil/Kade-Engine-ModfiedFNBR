@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fucker.png"><SubTexture name="Fucker idle0000" x="0" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker idle0001" x="2048" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker idle0002" x="4096" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker idle0003" x="6144" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker idle0004" x="8192" y="0" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker idle0005" x="0" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker idle0006" x="2048" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker right0000" x="4096" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker right0001" x="6144" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker right0002" x="8192" y="2038" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker right0003" x="0" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker right0004" x="2048" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker left0000" x="4096" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker left0001" x="6144" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker left0002" x="8192" y="4076" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker left0003" x="0" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker left0004" x="2048" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker up0000" x="4096" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker up0001" x="6144" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker up0002" x="8192" y="6114" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker up0003" x="0" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker down0000" x="2048" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker down0001" x="4096" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker down0002" x="6144" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+<SubTexture name="Fucker down0003" x="8192" y="8152" width="2048" height="2038" frameX="0" frameY="0" frameWidth="2048" frameHeight="2038" />
+</TextureAtlas>

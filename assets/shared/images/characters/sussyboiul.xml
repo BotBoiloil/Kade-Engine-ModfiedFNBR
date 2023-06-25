@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sussyboiul.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="100" y="100" width="278" height="273"/>
+	<SubTexture name="down0001" x="478" y="100" width="278" height="263" frameX="0" frameY="-10" frameWidth="278" frameHeight="273"/>
+	<SubTexture name="idle0000" x="856" y="100" width="270" height="274" frameX="0" frameY="-2" frameWidth="279" frameHeight="278"/>
+	<SubTexture name="idle0001" x="1226" y="100" width="277" height="274" frameX="-2" frameY="-4" frameWidth="279" frameHeight="278"/>
+	<SubTexture name="idle0002" x="1603" y="100" width="273" height="274" frameX="-1" frameY="-4" frameWidth="279" frameHeight="278"/>
+	<SubTexture name="idle0003" x="100" y="474" width="269" height="274" frameX="0" frameY="-4" frameWidth="279" frameHeight="278"/>
+	<SubTexture name="idle0004" x="469" y="474" width="269" height="278" frameX="0" frameY="0" frameWidth="279" frameHeight="278"/>
+	<SubTexture name="left0000" x="838" y="474" width="326" height="273" frameX="-1" frameY="0" frameWidth="327" frameHeight="273"/>
+	<SubTexture name="left0001" x="1264" y="474" width="325" height="273" frameX="0" frameY="0" frameWidth="327" frameHeight="273"/>
+	<SubTexture name="right0000" x="100" y="852" width="282" height="273" frameX="0" frameY="0" frameWidth="289" frameHeight="273"/>
+	<SubTexture name="right0001" x="482" y="852" width="281" height="273" frameX="-8" frameY="0" frameWidth="289" frameHeight="273"/>
+	<SubTexture name="up0000" x="863" y="852" width="293" height="274" frameX="-7" frameY="-7" frameWidth="300" frameHeight="281"/>
+	<SubTexture name="up0001" x="1256" y="852" width="300" height="281"/>
+</TextureAtlas>

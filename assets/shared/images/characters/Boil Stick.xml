@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boil Stick.png"><SubTexture name="Boil Stick Idle Dance0000" x="0" y="0" width="263" height="446" frameX="-61" frameY="-27" frameWidth="396" frameHeight="484" />
+<SubTexture name="Boil Stick Idle Dance10000" x="263" y="0" width="271" height="446" frameX="-48" frameY="-33" frameWidth="397" frameHeight="491" />
+<SubTexture name="Boil Stick Idle Dance20000" x="534" y="0" width="281" height="446" frameX="-42" frameY="-21" frameWidth="354" frameHeight="481" />
+<SubTexture name="Boil Stick Idle Dance30000" x="815" y="0" width="273" height="446" frameX="-45" frameY="-33" frameWidth="363" frameHeight="493" />
+<SubTexture name="Boil Stick Idle Dance40000" x="0" y="446" width="259" height="446" frameX="-62" frameY="-30" frameWidth="366" frameHeight="496" />
+<SubTexture name="Boil Stick Up Note0000" x="259" y="446" width="259" height="446" frameX="-42" frameY="-28" frameWidth="333" frameHeight="486" />
+<SubTexture name="Boil Stick Up Note10000" x="518" y="446" width="259" height="446" frameX="-29" frameY="-45" frameWidth="312" frameHeight="510" />
+<SubTexture name="Boil Stick Up Note20000" x="777" y="446" width="259" height="446" frameX="-28" frameY="-31" frameWidth="313" frameHeight="491" />
+<SubTexture name="Boil Stick Down Note0000" x="1088" y="0" width="259" height="446" frameX="-31" frameY="-21" frameWidth="318" frameHeight="476" />
+<SubTexture name="Boil Stick Down Note10000" x="1088" y="446" width="259" height="446" frameX="-28" frameY="-37" frameWidth="320" frameHeight="495" />
+<SubTexture name="Boil Stick Down Note20000" x="0" y="892" width="259" height="446" frameX="-28" frameY="-25" frameWidth="324" frameHeight="484" />
+<SubTexture name="Boil Stick Left Note0000" x="259" y="892" width="288" height="446" frameX="-30" frameY="-26" frameWidth="359" frameHeight="485" />
+<SubTexture name="Boil Stick Left Note10000" x="547" y="892" width="290" height="446" frameX="-19" frameY="-34" frameWidth="334" frameHeight="494" />
+<SubTexture name="Boil Stick Left Note20000" x="837" y="892" width="292" height="446" frameX="-18" frameY="-48" frameWidth="350" frameHeight="509" />
+<SubTexture name="Boil Stick Right Note0000" x="1347" y="0" width="280" height="446" frameX="-28" frameY="-28" frameWidth="339" frameHeight="478" />
+<SubTexture name="Boil Stick Right Note10000" x="1627" y="0" width="284" height="446" frameX="-16" frameY="-42" frameWidth="328" frameHeight="496" />
+<SubTexture name="Boil Stick Right Note20000" x="0" y="1338" width="288" height="446" frameX="-25" frameY="-34" frameWidth="327" frameHeight="488" />
+</TextureAtlas>

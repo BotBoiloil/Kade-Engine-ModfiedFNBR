@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bboil.png"><SubTexture name="bboil idle0000" x="0" y="0" width="477" height="493" frameX="-13" frameY="-13" frameWidth="493" frameHeight="506" />
+<SubTexture name="bboil idle10000" x="1864" y="463" width="455" height="461" frameX="-46" frameY="-28" frameWidth="511" frameHeight="489" />
+<SubTexture name="bboil idle20000" x="461" y="967" width="458" height="468" frameX="-37" frameY="-24" frameWidth="507" frameHeight="492" />
+<SubTexture name="bboil left0000" x="917" y="493" width="463" height="472" frameX="-20" frameY="-21" frameWidth="506" frameHeight="493" />
+<SubTexture name="bboil left10000" x="919" y="967" width="454" height="468" frameX="-50" frameY="-21" frameWidth="510" frameHeight="489" />
+<SubTexture name="bboil left20000" x="1373" y="967" width="454" height="467" frameX="-37" frameY="-20" frameWidth="513" frameHeight="487" />
+<SubTexture name="bboil down0000" x="1405" y="0" width="459" height="472" frameX="-37" frameY="-21" frameWidth="506" frameHeight="493" />
+<SubTexture name="bboil down10000" x="0" y="967" width="461" height="470" frameX="-34" frameY="-25" frameWidth="504" frameHeight="495" />
+<SubTexture name="bboil down20000" x="1864" y="0" width="457" height="463" frameX="-27" frameY="-30" frameWidth="506" frameHeight="493" />
+<SubTexture name="bboil up0000" x="0" y="493" width="461" height="474" frameX="-34" frameY="-23" frameWidth="502" frameHeight="497" />
+<SubTexture name="bboil up10000" x="943" y="0" width="462" height="480" frameX="-35" frameY="-18" frameWidth="501" frameHeight="498" />
+<SubTexture name="bboil up20000" x="1405" y="472" width="450" height="472" frameX="-50" frameY="-11" frameWidth="516" frameHeight="483" />
+<SubTexture name="bboil right0000" x="461" y="493" width="456" height="473" frameX="-49" frameY="-17" frameWidth="509" frameHeight="490" />
+<SubTexture name="bboil right10000" x="1864" y="924" width="446" height="461" frameX="-59" frameY="-18" frameWidth="521" frameHeight="479" />
+<SubTexture name="bboil right20000" x="477" y="0" width="466" height="481" frameX="-34" frameY="-18" frameWidth="500" frameHeight="499" />
+</TextureAtlas>

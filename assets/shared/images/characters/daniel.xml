@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="daniel.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="867" height="615" frameX="-221" frameY="0" frameWidth="1308" frameHeight="615"/>
+	<SubTexture name="down0001" x="867" y="0" width="1308" height="342" frameX="0" frameY="-233" frameWidth="1308" frameHeight="615"/>
+	<SubTexture name="idle0000" x="2175" y="0" width="867" height="1032" frameX="0" frameY="-87" frameWidth="867" frameHeight="1119"/>
+	<SubTexture name="idle0001" x="3042" y="0" width="867" height="362" frameX="0" frameY="-697" frameWidth="867" frameHeight="1119"/>
+	<SubTexture name="idle0002" x="3909" y="0" width="867" height="767" frameX="0" frameY="-221" frameWidth="867" frameHeight="1119"/>
+	<SubTexture name="idle0003" x="4776" y="0" width="867" height="932" frameX="0" frameY="0" frameWidth="867" frameHeight="1119"/>
+	<SubTexture name="left0000" x="5643" y="0" width="913" height="1123" frameX="-96" frameY="-167" frameWidth="1105" frameHeight="1457"/>
+	<SubTexture name="left0001" x="6556" y="0" width="1105" height="1457"/>
+	<SubTexture name="right0000" x="0" y="1457" width="1032" height="132" frameX="-641" frameY="0" frameWidth="2313" frameHeight="132"/>
+	<SubTexture name="right0001" x="1032" y="1457" width="2313" height="132"/>
+	<SubTexture name="up0000" x="3345" y="1457" width="867" height="1378" frameX="0" frameY="-116" frameWidth="867" frameHeight="1611"/>
+	<SubTexture name="up0001" x="4212" y="1457" width="742" height="1611" frameX="-62" frameY="0" frameWidth="867" frameHeight="1611"/>
+</TextureAtlas>

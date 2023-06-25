@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orange.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="100" y="100" width="1152" height="957"/>
+	<SubTexture name="down0001" x="1352" y="100" width="1152" height="836" frameX="0" frameY="-106" frameWidth="1152" frameHeight="957"/>
+	<SubTexture name="idle0000" x="2604" y="100" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="idle0001" x="3204" y="100" width="500" height="396" frameX="0" frameY="-108" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="idle0002" x="100" y="1157" width="500" height="444" frameX="0" frameY="-61" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="idle0003" x="700" y="1157" width="500" height="470" frameX="0" frameY="-36" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="left0000" x="1300" y="1157" width="564" height="512" frameX="-55" frameY="-16" frameWidth="629" frameHeight="528"/>
+	<SubTexture name="left0001" x="1964" y="1157" width="601" height="526" frameX="-20" frameY="0" frameWidth="629" frameHeight="528"/>
+	<SubTexture name="left0002" x="2665" y="1157" width="629" height="524" frameX="0" frameY="-1" frameWidth="629" frameHeight="528"/>
+	<SubTexture name="right0000" x="3394" y="1157" width="568" height="512" frameX="-17" frameY="-32" frameWidth="623" frameHeight="546"/>
+	<SubTexture name="right0001" x="100" y="1783" width="623" height="546"/>
+	<SubTexture name="up0000" x="823" y="1783" width="360" height="390" frameX="0" frameY="-33" frameWidth="360" frameHeight="424"/>
+	<SubTexture name="up0001" x="1283" y="1783" width="360" height="424"/>
+</TextureAtlas>

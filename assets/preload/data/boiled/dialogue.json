@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "uhhh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "votre mere a un poids corporel superieur a la moyenne"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no u"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "adfghsdrgwserggsrefgsedrhaseghrgaefsdrgfa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so uh what now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep beep boop bai"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wha?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he wants to rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how tf did you understand him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whatever"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess we can rap battle even tho ive never rapped before"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AND NOW YOU SPEAK NORMAL!!!!"
+		}
+	]
+}

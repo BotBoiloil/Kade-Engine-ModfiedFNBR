@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="copyboil.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="175" height="268"/>
+	<SubTexture name="down0001" x="175" y="0" width="175" height="255" frameX="0" frameY="-12" frameWidth="175" frameHeight="268"/>
+	<SubTexture name="idle0000" x="350" y="0" width="173" height="267" frameX="0" frameY="0" frameWidth="173" frameHeight="271"/>
+	<SubTexture name="idle0001" x="523" y="0" width="173" height="199" frameX="0" frameY="-69" frameWidth="173" frameHeight="271"/>
+	<SubTexture name="idle0002" x="696" y="0" width="173" height="251" frameX="0" frameY="-20" frameWidth="173" frameHeight="271"/>
+	<SubTexture name="left0000" x="869" y="0" width="174" height="268" frameX="-4" frameY="-1" frameWidth="178" frameHeight="269"/>
+	<SubTexture name="left0001" x="1043" y="0" width="177" height="269" frameX="0" frameY="0" frameWidth="178" frameHeight="269"/>
+	<SubTexture name="miss down0000" x="1220" y="0" width="175" height="255"/>
+	<SubTexture name="miss down0001" x="1395" y="0" width="175" height="217" frameX="0" frameY="-38" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="miss left0000" x="1570" y="0" width="174" height="268" frameX="-3" frameY="0" frameWidth="178" frameHeight="268"/>
+	<SubTexture name="miss left0001" x="1744" y="0" width="178" height="266" frameX="0" frameY="-2" frameWidth="178" frameHeight="268"/>
+	<SubTexture name="miss right0000" x="0" y="269" width="175" height="268" frameX="0" frameY="-2" frameWidth="198" frameHeight="270"/>
+	<SubTexture name="miss right0001" x="175" y="269" width="179" height="270" frameX="-19" frameY="0" frameWidth="198" frameHeight="270"/>
+	<SubTexture name="miss up0000" x="354" y="269" width="175" height="268" frameX="0" frameY="-8" frameWidth="175" frameHeight="276"/>
+	<SubTexture name="miss up0001" x="529" y="269" width="175" height="269" frameX="0" frameY="0" frameWidth="175" frameHeight="276"/>
+	<SubTexture name="right0000" x="704" y="269" width="175" height="268" frameX="0" frameY="-9" frameWidth="185" frameHeight="277"/>
+	<SubTexture name="right0001" x="879" y="269" width="177" height="270" frameX="-8" frameY="0" frameWidth="185" frameHeight="277"/>
+	<SubTexture name="up0000" x="1056" y="269" width="175" height="268" frameX="0" frameY="-9" frameWidth="175" frameHeight="277"/>
+	<SubTexture name="up0001" x="1231" y="269" width="175" height="272" frameX="0" frameY="0" frameWidth="175" frameHeight="277"/>
+</TextureAtlas>

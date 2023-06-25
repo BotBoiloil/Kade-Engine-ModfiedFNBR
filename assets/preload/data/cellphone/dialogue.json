@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruj"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "L"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if ur ip turned into money how much money\\nwould u have?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "89.412.112.42"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i have ur ip now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why is there knocking at my door"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let me in"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(0_0) what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wake up"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boiol.png"><SubTexture name="boiol idol0000" x="0" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol idol0001" x="2724" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol idol0002" x="5448" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol idol0003" x="8172" y="0" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol idol0004" x="0" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol idol0005" x="2724" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol idol0006" x="5448" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol right0000" x="8172" y="2724" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol right0001" x="0" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol right0002" x="2724" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol up0000" x="5448" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol up0001" x="8172" y="5448" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol up0002" x="0" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol left0000" x="2724" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol left0001" x="5448" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol left0002" x="8172" y="8172" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol down0000" x="0" y="10896" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol down0001" x="2724" y="10896" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+<SubTexture name="boiol down0002" x="5448" y="10896" width="2724" height="2724" frameX="0" frameY="0" frameWidth="2724" frameHeight="2724" />
+</TextureAtlas>

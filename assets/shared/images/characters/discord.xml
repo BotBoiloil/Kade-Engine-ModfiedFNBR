@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="discord.png"><SubTexture name="discord idle0000" x="0" y="0" width="2671" height="2072" frameX="-585" frameY="-44" frameWidth="3840" frameHeight="2160" />
+</TextureAtlas>
