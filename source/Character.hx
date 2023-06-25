@@ -405,8 +405,9 @@ class Character extends FlxSprite
 				addOffset('firstDeath');
 				addOffset('deathLoop', -37);
 				addOffset('deathConfirm', -37);
+
 				playAnim('firstDeath');
-				// pixel bullshit
+
 				setGraphicSize(Std.int(width * 6));
 				updateHitbox();
 				antialiasing = false;
@@ -530,9 +531,7 @@ class Character extends FlxSprite
 		if (!curCharacter.startsWith('bf'))
 		{
 			if (animation.curAnim.name.startsWith('sing'))
-			{
 				holdTimer += elapsed;
-			}
 
 			var dadVar:Float = 4;
 

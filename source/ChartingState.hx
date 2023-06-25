@@ -159,8 +159,6 @@ class ChartingState extends MusicBeatState
 
 		addSection();
 
-		// sections = _song.notes;
-
 		updateGrid();
 
 		loadSong(_song.song);
@@ -231,11 +229,6 @@ class ChartingState extends MusicBeatState
 		key_ctrl.loadGraphic(Paths.image("key_ctrl")); // "assets/shared/images/key_ctrl.png"
 		key_ctrl.alpha = 0.75;
 		add(key_ctrl);
-
-		/*key_alt = new FlxButton(60, 270, "");
-			key_alt.loadGraphic(Paths.image("key_alt")); //"assets/shared/images/key_alt.png"
-			key_alt.alpha = 0.75;
-			add(key_alt); */
 
 		_pad = new FlxVirtualPad(RIGHT_FULL, A);
 		_pad.alpha = 0.75;

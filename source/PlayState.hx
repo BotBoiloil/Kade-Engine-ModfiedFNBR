@@ -1236,9 +1236,7 @@ class PlayState extends MusicBeatState
 			remove(black);
 
 			if (StringTools.replace(PlayState.SONG.song, " ", "-").toLowerCase() == 'thorns')
-			{
 				add(red);
-			}
 		}
 
 		new FlxTimer().start(0.3, function(tmr:FlxTimer)
@@ -1246,9 +1244,7 @@ class PlayState extends MusicBeatState
 			black.alpha -= 0.15;
 
 			if (black.alpha > 0)
-			{
 				tmr.reset(0.3);
-			}
 			else
 			{
 				if (dialogueBox != null)
@@ -1401,7 +1397,6 @@ class PlayState extends MusicBeatState
 			}
 
 			swagCounter += 1;
-			// generateSong('fresh');
 		}, 5);
 	}
 
@@ -1500,9 +1495,7 @@ class PlayState extends MusicBeatState
 		lastReportedPlayheadPosition = 0;
 
 		if (!paused)
-		{
 			FlxG.sound.playMusic(Paths.inst(PlayState.SONG.song), 1, false);
-		}
 
 		FlxG.sound.music.onComplete = endSong;
 		vocals.play();
@@ -1553,9 +1546,6 @@ class PlayState extends MusicBeatState
 			default:
 				allowedToHeadbang = false;
 		}
-
-		/*if (useVideo)
-			GlobalVideo.get().resume(); */
 
 		#if windows
 		// Updating Discord Rich Presence (with Time Left)
